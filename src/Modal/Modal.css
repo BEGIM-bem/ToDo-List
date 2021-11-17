@@ -1,0 +1,33 @@
+.modal {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  padding-top: 5rem;
+}
+
+.modal-body {
+  padding: 2rem;
+  width: 400px;
+  border-radius: 5px;
+  background: #483d8b;
+  height: 200px;
+}
+
+.modalBtn {
+  background: #8a2be2;
+  border: 2px solid white;
+  height: 30px;
+  margin-bottom: 10px;
+}
+
+.modalBtn2 {
+  background: #9370db;
+  border: 2px solid black;
+  height: 30px;
+  margin-bottom: 10px;
+}
