@@ -14,20 +14,25 @@
   padding: 2rem;
   width: 400px;
   border-radius: 5px;
-  background: #483d8b;
-  height: 200px;
+  background: white;
+
+  /* position: relative;
+  z-index: 5; */
+  /* height: 200px; */
 }
 
 .modalBtn {
-  background: #8a2be2;
+  /* background: #8a2be2; */
   border: 2px solid white;
   height: 30px;
   margin-bottom: 10px;
 }
 
 .modalBtn2 {
-  background: #9370db;
-  border: 2px solid black;
+  background: 0;
+  border: 1px solid black;
   height: 30px;
   margin-bottom: 10px;
+  width: 50px;
+  float: right;
 }
